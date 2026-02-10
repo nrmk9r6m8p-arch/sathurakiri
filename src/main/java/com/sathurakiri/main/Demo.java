@@ -8,9 +8,10 @@ abstract  class Demo {
 //        System.out.println(str);
 
   abstract void run();
-
+void shoot(){
+  System.out.println("dsdhg");
+}
     }
-
 
 
 

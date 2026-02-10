@@ -7,11 +7,12 @@ public class Motor extends  Demo {
     void run() {
         System.out.println(" abacsfd");
     }
+    
     public static void main(String[] args){
         Demo tyre = new Motor();
         tyre.run();
-
-    }
+        tyre.shoot();
+}
 
 }
 
